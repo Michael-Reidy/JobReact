@@ -1,0 +1,7 @@
+entity Job {
+	source String,
+	text String,
+	url String
+}
+
+paginate Job with pagination
